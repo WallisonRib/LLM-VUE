@@ -1,4 +1,4 @@
-# LLM Vue
+# LLM Vue1
 
 SPA em Vue.js para conversar com um LLM usando Groq como provider inicial.
 
